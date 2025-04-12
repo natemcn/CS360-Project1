@@ -1,10 +1,10 @@
 # CS360 Project 1 Nate M
 
 ## 1: New e-Commerce site
-> `First Answer`
+> Maintaining a website is a constantly evolving and demanding task, for that reason we should use the Kanban model. Planning for a task such as this one is much easier when accompanied by a visual element. One that allows us to see our priorities and progress in the same place. 
 
 ## 2: Dental office site
-> `Second Answer`
+> Incremental development is the best approach for this dental office site. They have a long time frame and expect continous updates to roll out new features so we will use this to our advantage and use a method that benefits from that criteria. 
 
 ## 3: Nuclear Power Plant
 > Given project three's critial system status, it is only right that its model be the Waterfall model. While I have in my teams performance regardless of the methodology, ensuring this project is completely reliable and safe is my top priority. 
