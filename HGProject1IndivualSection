@@ -1,16 +1,26 @@
 # CS360-Project1 Harshveer Grewal
 ## Project 1 - Indivual Section
 ### 1. New e-Commerce site
-Use blank method.
+Use incremental method because it allows early delivery of important features 
+to users who can give feedback, and allows new optional fetaures for the website 
+to be added later on.
 ### 2. Dental office site
-Use blank method.
+Use RUP method because the website can use an agile methed to develop basic 
+features first like showing users clinic hours, location, dental staff, and 
+downloadable forums, but can then use a linear method later on to add 
+appointment booking, automated text reminders, and issue discounts.
 ### 3. Nuclear Power Plant
-Use blank method.
+Use Spiral method beacuse it focuses on risk analysis and allows for 
+itertive changes for safety, along with through validation at each step.
 ### 4. Department of Transportation
-Use blank method.
+Use waterfall method because the requirements are clearly defined in the 
+100 page specification and beacuase a clear deadline is set requiring planning.
 ### 5. Reducing Traffic
-Use blank method.
+Use Spiral method beacuse it focuses on risk analysis which is equired for software 
+interacting with hardware, itertive changes for safety, along with prototyping.
 ### 6. Educational game
-Use blank method.
+Use incremental method because the main game can be developed quickly, and more 
+features can be added to the game overtime.
 ### 7. Global Health
-Use blank method.
+Use incremental method to deliver early version to show progress and get more 
+grants, also allowing early feedback for new features and changes that need to be made.
