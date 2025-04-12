@@ -16,9 +16,9 @@ Reuse previous code that is relevant and integrate it into the new project to sp
 **Waterfall model.** 
 An embedded system should most likely be created using the waterfall model to ensure completeness and prevent needs for future updates. No timeframe specified.  
 ## 6: *Educational game*  
-**Iterative model.** 
+**Incremental model.** 
 The iterative model can quickly ship deliverables and prototypes early into the lifecycle as they’re continuing to iterate.  
 ## 7: *Global Health*  
-**Agile/Iterative.**
+**Agile.**
 To prevent slowdowns in the workflow, agile will allow the existing devs to continue working as they fill in the spots for the remaining needed devs and slot them in.
 
