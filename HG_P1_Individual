@@ -1,23 +1,23 @@
 # CS360-Project1 Harshveer Grewal
-## Project 1 - Indivual Section
+## Project 1 - Individual Section
 ### 1. New e-Commerce site
 Use incremental method because it allows early delivery of important features 
-to users who can give feedback, and allows new optional fetaures for the website 
+to users who can give feedback, and allows new optional features for the website 
 to be added later on.
 ### 2. Dental office site
-Use RUP method because the website can use an agile methed to develop basic 
+Use RUP method because the website can use an agile method to develop basic 
 features first like showing users clinic hours, location, dental staff, and 
 downloadable forums, but can then use a linear method later on to add 
 appointment booking, automated text reminders, and issue discounts.
 ### 3. Nuclear Power Plant
-Use Spiral method beacuse it focuses on risk analysis and allows for 
-itertive changes for safety, along with through validation at each step.
+Use Spiral method because it focuses on risk analysis and allows for 
+iterative changes for safety, along with through validation at each step.
 ### 4. Department of Transportation
 Use waterfall method because the requirements are clearly defined in the 
-100 page specification and beacuase a clear deadline is set requiring planning.
+100 page specification and because a clear deadline is set requiring planning.
 ### 5. Reducing Traffic
-Use Spiral method beacuse it focuses on risk analysis which is equired for software 
-interacting with hardware, itertive changes for safety, along with prototyping.
+Use Spiral method because it focuses on risk analysis which is required for software 
+interacting with hardware, iterative changes for safety, along with prototyping.
 ### 6. Educational game
 Use incremental method because the main game can be developed quickly, and more 
 features can be added to the game overtime.
