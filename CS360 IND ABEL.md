@@ -1,4 +1,6 @@
 # CS360 Project 1 Abel Alemayehu
+## Source: [Models Difference](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
+
 ## 1: New E-Commerce Site
 ### Model: Reuse
 > The **reuse model** is the best for this e-commerce site because the company already has in-house templates and custom scripting for generating web pages. This model would reuse these existing tools with minimal changes. This is helpful because most of the system is already built, and there would be a massive reduction in coding effort which would speed up the delivery of the site.
