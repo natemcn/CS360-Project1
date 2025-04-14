@@ -14,3 +14,13 @@
 ## 4: Department of Transportation:
 ### Model: Reuse
 > The **reuse model** is perfect since the "company has developed a similar solution in the transportation domain". Since the company has previous experience with similar transportation-related applications, the reuse model allows them to reuse existing software components from their other projects, reducing development time and costs.
+
+## 5: Reducing Trafiic
+
+## 6: Educational Game
+### Model: Agile
+> The **agile model** is best for the educational game because the production needs to be fast, flexibile, and continous feedback. Development of the game is based on a preliminary and evolving set of requirements, showing that this project has a flexible set of requirements which Agile is good for. Customers of this product expect frequent delivery and testing, which means the team must deliver working software in cycles. Becuase we are directly involed with users through conferences and marketing, we need quickly incorporate user feedback into the development process.
+
+## 7: Global Health
+### Model: Incremental
+> The **incremental model** is the best because it allows the development team to deliver working software in small pieces, which reduces risk. Instead of waiting until the very end to deliver a full product, each increment introduces more components that can be tested and improved. This is important for this specific project because the company is relying on grant funding and has the poential to recieve more based on demonstrated impact. The incrementalmodel allows us to deliver tangible software that can show the progress to stakeholders/customers.
