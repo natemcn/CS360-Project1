@@ -7,3 +7,7 @@
 
 ## 3: Nuclear Power Plant
 > The **waterfall model** fits the most for this project because we value safety, reliablity, and a complaiance with standards for the power plant. The waterfall model is good for upfront planning which reduces the risk in the later stages which helps the power plan maintin reliablity. Since this is a nuclear power plant, there are string regulations and contrainst. The waterfall model can factor this in by creating strict structure and planning that happense before any impmentation takes place which allow the system to meet the strict specficications of the power plant.
+
+## 4: Department of Transportation:
+# Model: Reuse
+> The **reuse model** is perfect since the "company has developed a similar solution in the transportation domain". Since the company has previous experience with similar transportation-related applications, the reuse model allows them to reuse existing software components from their other projects, reducing development time and costs.
