@@ -1,39 +1,30 @@
 # CS360-Project1 Harshveer Grewal
 ## Project 1 - Individual Section
 ### 1. New e-Commerce site
-The e-commorce site should use the Incremental model because it allows early delivery 
-of important features to users who can give feedback and it allows new optional 
+> The e-commerce site should use the Incremental model. This is because it allows early 
+delivery of important features to users who can give feedback and it allows new optional 
 features for the website to be added later on.
 ### 2. Dental office site
-The dental office site should use the RUP model because the website can use an agile 
-model to develop basic features first like showing users clinic hours, location, 
+> The dental office site should use the RUP model. This is because the website can use an 
+agile model to develop basic features first like showing users clinic hours, location, 
 dental staff, and downloadable forms, but can then use a linear model later on to add 
 appointment booking, automated text reminders, and issue discounts.
 ### 3. Nuclear Power Plant
-The nucelear power plant should use the Spiral model because it focuses on risk analysis 
-and allows for iterative changes for safety, along with thorough validation at each step.
+> The nuclear power plant should use the Spiral model. This is because it focuses on risk 
+analysis and allows for iterative changes for safety, along with thorough validation at 
+each step.
 ### 4. Department of Transportation
-The department of transportation should use the Waterfall model because the requirements 
-are clearly defined in the 100 page specification and because a clear deadline is set 
-requiring planning.
+> The department of transportation should use the Waterfall model. This is because the 
+requirements are clearly defined in the 100 page specification and because a clear deadline 
+is set requiring planning.
 ### 5. Reducing Traffic
-Reducing traffic should use the Spiral model because it focuses on risk analysis which 
-is required for software interacting with hardware, iterative changes for safety, along 
-with prototyping.
+> Reducing traffic should use the Spiral model. This is because it focuses on risk analysis 
+which is required for software interacting with hardware, iterative changes for safety, 
+along with prototyping.
 ### 6. Educational game
-Use incremental method because the main game can be developed quickly, and more 
-features can be added to the game overtime.
+> The educational game should use the Incremental model. This is because the main game can be 
+developed quickly, and more features can be added to the game over time.
 ### 7. Global Health
-Use incremental method to deliver early version to show progress and get more 
-grants, also allowing early feedback for new features and changes that need to be made.
-
-
-TEST
-
-> As a group we decided on the **Rational Unified Process (RUP)** because we believe the website should use an agile method first to develop basic features like showing users clinic hours, location, dental staff, and downloadable forms to get the website up and running quickly. Then the website can use a linear method to later add features like appointment booking, automated text reminders, and issue discounts because these features are more complex and require planning and testing due to things like integration with external systems, security, and reliable interactions with users.
-
-> Another option we considered was the Incremental Method but we chose RUP over this for the following reasons:
-> * RUP supports both agile methods like incremental and a linear method
-> * Incremental is mostly used for delivering chunks of software at a time not building a full system at once before adding new features
-> * Incremental does not require detailed planning from the start
-> * RUP is better for projects that start simple but grow with complexity
+> Global health should use the Incremental model. This is because it can allow fast delivery 
+of an early version to show progress and get more grants, also allowing early feedback for 
+new features and changes that need to be made.
