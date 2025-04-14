@@ -1,9 +1,7 @@
 # CS360-Project1
 ## Project1 - Project lifecycles
 
-**Group:** 
-
-==Harshveer, Abel, Nate, Stan, Kevin==
+**Group:** Harshveer, Abel, Nate, Stan, Kevin 😄
 
 **Assignment:** [Project1](https://canvas.uw.edu/courses/1817344/assignments/10273913)
 
