@@ -1,5 +1,5 @@
 # CS360-Project1 Harshveer Grewal
-## Project 1 - Individual Section
+## Project 1 - Group Section
 
 ### 1. New e-Commerce site
 > Our group’s choice is the **Scrum model** as the flexibility of **Scrum** allows for ease of rearrangement for requirements and responsibilities along with scheduled workflow required for a system with multiple teams involved.
