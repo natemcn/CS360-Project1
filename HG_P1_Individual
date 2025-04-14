@@ -1,13 +1,13 @@
 # CS360-Project1 Harshveer Grewal
 ## Project 1 - Individual Section
 ### 1. New e-Commerce site
-Use incremental method because it allows early delivery of important features 
-to users who can give feedback, and allows new optional features for the website 
-to be added later on.
+The e-commorce site should use the incremental model because it allows early delivery 
+of important features to users who can give feedback and it allows new optional 
+features for the website to be added later on.
 ### 2. Dental office site
-Use RUP method because the website can use an agile method to develop basic 
-features first like showing users clinic hours, location, dental staff, and 
-downloadable forums, but can then use a linear method later on to add 
+The dental office site should use the RUP model because the website can use an agile 
+method to develop basic features first like showing users clinic hours, location, 
+dental staff, and downloadable forms, but can then use a linear method later on to add 
 appointment booking, automated text reminders, and issue discounts.
 ### 3. Nuclear Power Plant
 Use Spiral method because it focuses on risk analysis and allows for 
@@ -24,3 +24,14 @@ features can be added to the game overtime.
 ### 7. Global Health
 Use incremental method to deliver early version to show progress and get more 
 grants, also allowing early feedback for new features and changes that need to be made.
+
+
+TEST
+
+> As a group we decided on the **Rational Unified Process (RUP)** because we believe the website should use an agile method first to develop basic features like showing users clinic hours, location, dental staff, and downloadable forms to get the website up and running quickly. Then the website can use a linear method to later add features like appointment booking, automated text reminders, and issue discounts because these features are more complex and require planning and testing due to things like integration with external systems, security, and reliable interactions with users.
+
+> Another option we considered was the Incremental Method but we chose RUP over this for the following reasons:
+> * RUP supports both agile methods like incremental and a linear method
+> * Incremental is mostly used for delivering chunks of software at a time not building a full system at once before adding new features
+> * Incremental does not require detailed planning from the start
+> * RUP is better for projects that start simple but grow with complexity
