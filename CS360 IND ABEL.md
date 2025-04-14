@@ -16,6 +16,8 @@
 > The **reuse model** is perfect since the "company has developed a similar solution in the transportation domain". Since the company has previous experience with similar transportation-related applications, the reuse model allows them to reuse existing software components from their other projects, reducing development time and costs.
 
 ## 5: Reducing Trafiic
+### Model: Waterfall
+> The **waterfall model** is suited for this traffic reduction project because the system requirements (GPS tracking, sensors, cameras, etc.) are clearly defined and unlikely to change throughout the project. The project also uses embedded systems and hardware, which is perfect for Waterfall's development approach. Since the team is working with embedded systems, any changes are costly and difficult to implement mid-project. Waterfall's structure and design for all the components helps to make the system reliable and safe.
 
 ## 6: Educational Game
 ### Model: Agile
